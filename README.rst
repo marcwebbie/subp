@@ -3,6 +3,8 @@ Subp: Python subprocess optimized for your happiness.
 
 This is a convenience wrapper around the `subprocess` module.
 
+.. image:: https://travis-ci.org/marcwebbie/subp.svg?branch=master
+   :target: https://travis-ci.org/marcwebbie/subp
 
 Usage
 -----
